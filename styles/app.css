@@ -1,3 +1,5 @@
+@layer ui_reset, ui_base, ui_tokens, ui_recipes, ui_utilities;
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

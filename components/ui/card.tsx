@@ -1,6 +1,6 @@
 'use client'
 
-import * as React from 'react'
+import type * as React from "react";
 
 import type { HeadingProps, TextProps } from 'react-aria-components'
 import { Header, Heading } from 'react-aria-components'
